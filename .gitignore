@@ -1,0 +1,15 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+/Cinema/.vs/
+/Cinema/*.user
+.idea
+.vscode
+/Cinema/wwwroot
+/.vs
+/Cinema/cinema.xml
+.env
+GPUCache
+debug.log
